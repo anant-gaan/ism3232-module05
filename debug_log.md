@@ -27,4 +27,4 @@ What I changed myself: In bug 1 I fixed the spelling error, and in bug 2 I chang
 Can I explain every fixed line? Yes
 
 ## What I learned
-[2-3 sentences]
+I learned that a KeyError is when python tries accessing a dictionary key that does not exist, and a TypeError is when incompatible data types are used together.
